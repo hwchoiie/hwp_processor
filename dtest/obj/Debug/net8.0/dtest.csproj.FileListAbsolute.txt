@@ -1,0 +1,14 @@
+C:\VisualStudioProjects\dtest\dtest\bin\Debug\net8.0\dtest.exe
+C:\VisualStudioProjects\dtest\dtest\bin\Debug\net8.0\dtest.deps.json
+C:\VisualStudioProjects\dtest\dtest\bin\Debug\net8.0\dtest.runtimeconfig.json
+C:\VisualStudioProjects\dtest\dtest\bin\Debug\net8.0\dtest.dll
+C:\VisualStudioProjects\dtest\dtest\bin\Debug\net8.0\dtest.pdb
+C:\VisualStudioProjects\dtest\dtest\obj\Debug\net8.0\dtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProjects\dtest\dtest\obj\Debug\net8.0\dtest.AssemblyInfoInputs.cache
+C:\VisualStudioProjects\dtest\dtest\obj\Debug\net8.0\dtest.AssemblyInfo.cs
+C:\VisualStudioProjects\dtest\dtest\obj\Debug\net8.0\dtest.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\dtest\dtest\obj\Debug\net8.0\dtest.dll
+C:\VisualStudioProjects\dtest\dtest\obj\Debug\net8.0\refint\dtest.dll
+C:\VisualStudioProjects\dtest\dtest\obj\Debug\net8.0\dtest.pdb
+C:\VisualStudioProjects\dtest\dtest\obj\Debug\net8.0\dtest.genruntimeconfig.cache
+C:\VisualStudioProjects\dtest\dtest\obj\Debug\net8.0\ref\dtest.dll
